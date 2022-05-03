@@ -1,4 +1,4 @@
-# bio
+# jehapark
 Short introduction of myself :)
 
 - 👋 Hi, I’m @jehapark
