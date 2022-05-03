@@ -1,4 +1,4 @@
-# jehapark
+# Jeha Park
 Short introduction of myself :)
 
 - 👋 Hi, I’m @jehapark
